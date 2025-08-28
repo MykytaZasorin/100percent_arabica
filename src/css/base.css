@@ -42,7 +42,8 @@
   --color-scheme-2-accent: var(--color-neutral-darkest);
   --color-scheme-2-foreground: var(--color-coffee);
   --color-error-red: #7f1c1c;
-  --font-family: "Quicksand", "Aboreto", sans-serif;
+  --font-family: "Quicksand", sans-serif;
+  --second-family: "Aboreto", sans-serif;
 }
 
 body {
